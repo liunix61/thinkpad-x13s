@@ -6,6 +6,6 @@
   - Wiki: https://github.com/steev/thinkpad-x13s/wiki
 - Kernels: 
   - https://github.com/steev/linux/tree/lenovo-x13s
-  - https://github.com/bamse/kernel
+  - https://github.com/andersson/kernel (look for sc8280xp in the branch names)
 - Patchwork:
   - https://patchwork.kernel.org/project/linux-arm-msm/list/
